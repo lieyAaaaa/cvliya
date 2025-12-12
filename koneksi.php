@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "dbcv";
+$db   = "dbpsas19710";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
